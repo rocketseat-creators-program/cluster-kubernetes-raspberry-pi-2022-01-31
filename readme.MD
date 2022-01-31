@@ -11,6 +11,6 @@ uso e acesso à uma aplicação rodando no cluster.
 No arquivo "Cluster Kubernetes com Raspberry Pi.pdf" você encontra os comandos do passo-a-passo para a instalação, o arquivo nginx.yaml é um exemplo de servidor web para acesso à uma página através de um browser e o arquivo index.html é um exemplo simples de página web para este acesso.
 ## Sergio Siqueira
 
-| [<img src="https://github.com/snsergio/monitor/blob/main/avatar.png" width="75px;"/>](https://github.com/snsergio) |
+| [<img src="https://avatars.githubusercontent.com/u/5666390?v=4" width="75px;"/>](https://github.com/snsergio) |
 | :-: |
 |[Sergio Siqueira](https://github.com/snsergio)|
