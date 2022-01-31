@@ -8,6 +8,7 @@ aprender e estudar esta tecnologia. O Raspberry Pi é um hardware simples e de b
 Nesta aula será apresentado passo-a-passo a instalação dos requerimentos e a configuração para se ter este cluster pronto para uso. Será apresentado também um exemplo simples de
 uso e acesso à uma aplicação rodando no cluster.
 
+No arquivo "Cluster Kubernetes com Raspberry Pi.pdf" você encontra os comandos do passo-a-passo para a instalação, o arquivo nginx.yaml é um exemplo de servidor web para acesso à uma página através de um browser e o arquivo index.html é um exemplo simples de página web para este acesso.
 ## Sergio Siqueira
 
 | [<img src="https://github.com/snsergio/monitor/blob/main/avatar.png" width="75px;"/>](https://github.com/snsergio) |
